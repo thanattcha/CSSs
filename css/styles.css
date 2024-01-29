@@ -1,0 +1,49 @@
+
+/*1. tag selector */
+body{
+    background-color: rgb(192, 241, 241);
+}
+
+/* กำหนดไข่ปลา */
+้hr{
+border-style: none;
+border-top-style: dotted;
+border-color: rgb(18, 237, 39);
+border-width: 5px;
+width: 5%;
+    
+    }
+
+h1{
+    color: green;
+}
+
+p{
+    color: aqua;    
+}
+
+img{
+    background-color: blue;
+}
+
+/*2. class selector */
+.broccoli{
+    background-color: yellow;
+}
+
+.circular{
+    border-radius:100% ;
+}
+
+.mushroom{
+    background-color: green;
+}
+
+.circular{
+    border-radius:100% ;
+}
+
+#heading{
+    color: blueviolet;
+}
+    
